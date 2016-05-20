@@ -1,0 +1,2 @@
+The button has been pressed %s times.
+El botón se ha pulsado %s veces.
